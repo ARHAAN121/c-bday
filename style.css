@@ -1,0 +1,15 @@
+.body_backgorund
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas { 
+    border: 2px solid #3498db; /* Set a border color */
+    background-color: #ecf0f1; /* Set a background color */
+    margin: 20px auto; /* Center the canvas on the page */
+    display: block; /* Make the canvas a block element */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow for depth */
+    border-radius: 8px;
+
+}
